@@ -15,11 +15,11 @@ You can find a example of one of the stories that were created in the picture be
 ![image](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/assets/174935383/ef7ba8bd-62c3-49c3-bc24-5a55e713625d)
 
 
-inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
+## Release
 
 Here you can find the release that was created for this project:
 
-(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)
+![image](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/assets/174935383/77c17248-485f-4fa2-8d77-fed96a11452c)
 
 Testing process
 The test process was performed based on the standard test process as described below.
