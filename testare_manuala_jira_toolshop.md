@@ -1,12 +1,18 @@
-Testing Project for **Inserati aici numele aplicatiei pe care o testati**
+# Testing Project for ToolShop
+
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: Inserati aici numele aplicatiei pe care o testati
+**Application under test**: ToolShop
 
-Tools used: Jira, Zephyr Squad.
+**Tools used**: Jira, Zephyr Squad.
 
-Functional specifications:
-The below story (daca aveti mai multe scrieti stories) was created in Jira and describes the functional specifications of the "nume_modul" module, for which the final project is performed upon.
+## Functional specifications:
+The below stories were created in Jira and describe the functional specifications of the "Categories" module, for which the final project is performed upon.
+
+You can find a example of one of the stories that were created in the picture below:
+
+![image](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/assets/174935383/ef7ba8bd-62c3-49c3-bc24-5a55e713625d)
+
 
 inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier
 
