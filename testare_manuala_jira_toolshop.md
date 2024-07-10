@@ -110,7 +110,7 @@ You can find the full set of test conditions toghether with all the test cases i
 
 ### 1.4 Test Design
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/blob/main/Jira_TestCases.doc)
 
 ### 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
