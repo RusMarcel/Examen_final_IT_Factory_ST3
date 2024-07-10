@@ -104,7 +104,7 @@ The testing process will be executed based on the application requirements.
 
 You can find below an example of five test conditions that were created in the scope of this project:
 
-![image](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/assets/174935383/8dda08d8-5922-4882-9916-ab29a2307214)
+![image](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/assets/174935383/8ced12fd-2477-45bf-8135-0f8793dd368e)
 
 You can find the full set of test conditions toghether with all the test cases in the following paragraph.
 
