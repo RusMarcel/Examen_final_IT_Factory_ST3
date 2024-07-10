@@ -42,18 +42,47 @@ The test plan that was created for this project can be found here (inserati link
 </table>
 
 #### 1.1.2 Entry criteria defined
-(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)
+
+- The business requirements must be completed
+- The roles must have been alocated
+- The test plan must be finished and sent to the stakeholders
+- The entry criteria and exit criteria must be defined
+- The project risks must have been identified and mitigated
 
 #### 1.1.3 Exit criteria defined
-(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)
+
+- 95% of the test can be executed
+- not finding bugs of major severity in a specific period of time
+- the existing bugs that were reported must have been fixed and followed by retesting and regresion testing
+- the deadline has been reached
 
 #### 1.1.4 Test scope
 
 ##### Tests in scope:
-(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+
+In order to fulfill the testing objectives we are only going to focus on the Categories module wich has been placed in scope of testing and has been targeted for improvement over the next four months.
+
+There are a few tests in scope for Categories module:
+- Adding a category: Adding a category with a valid name, adding a category with an empty name, adding a category with a name that already exists, adding a category with a very long name (if there is a limit on the name length) and adding a category with special characters in the name (if allowed).
+- Editing a category: Editing an existing category with a valid name, editing an existing category with an empty name, editing an existing category with a name that already exists (except for the same name it currently has), editing an existing category with a very long name (if there is a limit on the name length), editing an existing category with special characters in the name (if allowed).
+- Deleting a category: Deleting a category that does not contain any items (if applicable), deleting a category that contains items (if applicable), deleting a category that does not exist.
+
+From a testing type perspective we are going to use non-functional testing where we are going to cover only usability testing and compatibility testing. Also, positive testing and negative testing are to be done, and retesting and regresion testing will be done when defects are going to be fixed or when modifications of any type are going to be bought to the code.
+
 
 ##### Tests not in scope:
-(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+
+We are not going to cover during the testing process any tehniques related to whitebox testing.
+
+Also, performance and security testing will not be performed during this session of testing.
+
+From the perspective of the modules covered, any other functionality that is located outside of the Categories module are not to be tested.
+
+There are a few tests not in scope for Categories module:
+- Performance of the Categories module (how long it takes to add a large number of categories)
+- Security of the Categories module (making sure that only authorized users can add, edit, or delete categories)
+- Usability of the Categories module (making sure that the user interface is easy to use and understand)
+
 
 #### 1.1.5 Risks detected
 
