@@ -127,8 +127,8 @@ The following is a summary of the bugs that have been found:
 
 ![image](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/assets/174935383/192d3996-437f-4594-bd79-2e48eb0e8f8e)
 
-ST3MR-17 -> Priority High, Severity High <br>
-ST3MR-10 -> Priority Low, Severity Low
+- ST3MR-17 -> Priority High, Severity High <br>
+- ST3MR-10 -> Priority Low, Severity Low
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
