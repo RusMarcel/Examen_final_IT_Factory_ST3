@@ -103,7 +103,10 @@ We identified a few potential product risks for our website:
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control
-(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)
+
+- We do periodic reports (daily/weekly/monthly) and will be generated to reflect the current status of the testing process.
+
+![image](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/assets/174935383/374ad307-a063-4642-bb28-d5e374c3a48b)
 
 ### 1.3 Test Analysis
 
