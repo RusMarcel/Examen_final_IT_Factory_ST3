@@ -87,10 +87,17 @@ There are a few tests not in scope for Categories module:
 #### 1.1.5 Risks detected
 
 ##### Project risks:
-(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)
+
+We identified a few potential project risks for our website:
+- Content Issues: Our website needs high-quality content to engage users. But gathering, writing, and editing content can be time-consuming, and there's always the risk of delays or a lack of high-quality material.
+- Technical Issues: Even with the best planning, technical glitches can happen. These could be server problems, compatibility issues, or security vulnerabilities.
 
 ##### Product risks:
-(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
+
+We identified a few potential product risks for our website:
+- User experience issues: Our website could be difficult to navigate, confusing, or lacks user-friendly features, users may abandon it quickly.
+- Compatibility issues: Our website will not function properly across different devices and browsers.
+- Missing features: The website can lack crucial functionalities that users expect that are necessary to achieve its goals.
 
 #### 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
