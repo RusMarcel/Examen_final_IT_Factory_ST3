@@ -153,16 +153,24 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 ### 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found [here](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/blob/main/Jira_TraceabilityMatrix.xlsx) 
+- The traceability matrix was generated and can be found [here](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/blob/main/Jira_TraceabilityMatrix.xlsx) 
 
 ![image](https://github.com/user-attachments/assets/7a431995-1908-4893-80da-66df87bc1c8e)
 
-Test execution chart was generated and can be found below.
+- Test execution chart was generated and can be found below:
 
-(inserati aici raportul de executie generat din jira din sectiunea de dashboards)
+![image](https://github.com/user-attachments/assets/0caedaf7-9de9-4589-8763-e8f7db016047)
 
-The final report shows that a number (inserati numarul de teste) tests have failed of a total of (inserati numarul de teste)
+- The final report shows that a number of two tests have failed of a total of five tests:
 
-A number of (inserati numarul de bug-uri) total bugs were found, from which the priority is: (inserati numarul de bug-uri) are high and (inserati numarul de bug-uri) are medium.
+![image](https://github.com/user-attachments/assets/b8c11e53-9583-40dd-b611-730e2edf6dad)
+
+- A number of two total bugs were found, from which the priority is: One is Highest and one is Low.
+
+![image](https://github.com/user-attachments/assets/288f9b0c-13b1-40c9-9a1f-87e2413798e9)
+
+- A total of five test cases were planned for execution and all were executed. The test execution diagram has been generated and you can find a picture below with a test execution by a test cycle:
+
+  ![image](https://github.com/user-attachments/assets/af6e470b-d20b-43d1-a8bd-57636f0810d2)
 
 (inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
