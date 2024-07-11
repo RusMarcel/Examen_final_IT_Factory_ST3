@@ -63,6 +63,7 @@ The test plan that was created for this project can be found here (inserati link
 In order to fulfill the testing objectives we are only going to focus on the Categories module wich has been placed in scope of testing and has been targeted for improvement over the next four months.
 
 There are a few tests in scope for Categories module:
+
 - Adding a category: Adding a category with a valid name, adding a category with an empty name, adding a category with a name that already exists, adding a category with a very long name (if there is a limit on the name length) and adding a category with special characters in the name (if allowed).
 - Editing a category: Editing an existing category with a valid name, editing an existing category with an empty name, editing an existing category with a name that already exists (except for the same name it currently has), editing an existing category with a very long name (if there is a limit on the name length), editing an existing category with special characters in the name (if allowed).
 - Deleting a category: Deleting a category that does not contain any items (if applicable), deleting a category that contains items (if applicable), deleting a category that does not exist.
@@ -79,6 +80,7 @@ Also, performance and security testing will not be performed during this session
 From the perspective of the modules covered, any other functionality that is located outside of the Categories module are not to be tested.
 
 There are a few tests not in scope for Categories module:
+
 - Performance of the Categories module (how long it takes to add a large number of categories)
 - Security of the Categories module (making sure that only authorized users can add, edit, or delete categories)
 - Usability of the Categories module (making sure that the user interface is easy to use and understand)
@@ -89,17 +91,20 @@ There are a few tests not in scope for Categories module:
 ##### Project risks:
 
 We identified a few potential project risks for our website:
+
 - Content Issues: Our website needs high-quality content to engage users. But gathering, writing, and editing content can be time-consuming, and there's always the risk of delays or a lack of high-quality material.
 - Technical Issues: Even with the best planning, technical glitches can happen. These could be server problems, compatibility issues, or security vulnerabilities.
 
 ##### Product risks:
 
 We identified a few potential product risks for our website:
+
 - User experience issues: Our website could be difficult to navigate, confusing, or lacks user-friendly features, users may abandon it quickly.
 - Compatibility issues: Our website will not function properly across different devices and browsers.
 - Missing features: The website can lack crucial functionalities that users expect that are necessary to achieve its goals.
 
 #### 1.1.6 Evaluating entry criteria
+
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ### 1.2 Test Monitoring and Control
@@ -123,9 +128,13 @@ You can find the full set of test conditions toghether with all the test cases i
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/blob/main/Jira_TestCases.doc)
 
 ### 1.5 Test Implementation
+
 The following elements are needed to be ready before the test execution phase begins:
 
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
+- Functionality: Features, Performance, Security, Integration
+- Usability: Navigation, Content Clarity, User Interface (UI), Accessibility
+- Content: Accuracy, Completeness, SEO Optimization
+- Additional factors: Mobile Responsiveness, Compliance, Cross-browser Compatibility
 
 ### 1.6. Test Execution
 
