@@ -169,8 +169,12 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 ![image](https://github.com/user-attachments/assets/288f9b0c-13b1-40c9-9a1f-87e2413798e9)
 
-- A total of five test cases were planned for execution and all were executed. The test execution diagram has been generated and you can find a picture below with a test execution by a test cycle:
+- A total of five test cases were planned for execution and all were executed. The test execution diagram has been generated and you can find a picture below with a test execution by test cycle:
 
-  ![image](https://github.com/user-attachments/assets/af6e470b-d20b-43d1-a8bd-57636f0810d2)
+![image](https://github.com/user-attachments/assets/af6e470b-d20b-43d1-a8bd-57636f0810d2)
 
-(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)
+- The final guidelines for this project are:
+
+1. To fix all critical bugs on a first place who impact the product launch
+2. To prevent all potential product and project risks
+3. To improve and to do the best for the next projects
