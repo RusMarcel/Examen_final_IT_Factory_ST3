@@ -151,7 +151,7 @@ The following is a summary of the bugs that have been found:
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-### 1.7 Test Completion As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+### 1.7 Test Completion
 
 - The traceability matrix was generated and can be found [here](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/blob/main/Jira_TraceabilityMatrix.xlsx) 
 
