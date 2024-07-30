@@ -169,9 +169,9 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 ![image](https://github.com/user-attachments/assets/288f9b0c-13b1-40c9-9a1f-87e2413798e9)
 
-- A total of five test cases were planned for execution and all were executed. The test execution diagram has been generated and you can find a picture below with a test execution by test cycle:
+- A total of twelve test cases were planned for execution and all were executed. The test execution diagram has been generated and you can find a picture below with a test execution by test cycle:
 
-![image](https://github.com/user-attachments/assets/af6e470b-d20b-43d1-a8bd-57636f0810d2)
+![image](https://github.com/user-attachments/assets/a75555f0-bd55-4950-8a87-5101d463abd1)
 
 - The final guidelines for this project are:
 
