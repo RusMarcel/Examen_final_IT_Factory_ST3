@@ -80,9 +80,1425 @@ hr.fullcontent
                             <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
                 <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
                 <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3MR-24]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-24">Verify the Hand Tool product can be selected</a>
+            <span class="subText">
+               Created: 30/Jul/24                   &nbsp;Updated: 30/Jul/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10442">Marcel_Rus_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-19724-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-2">
+                     ST3MR-2                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verify that the user can select one product from Hand Tools.</p>
+
+<p>Prerequisites: Follow these steps before executing this test case</p>
+
+<ul>
+	<li>Launch browser</li>
+	<li>Navigate to url '<a href="https://practicesoftwaretesting.com/" title="smart-link" class="external-link" rel="nofollow noreferrer">https://practicesoftwaretesting.com/</a> '</li>
+	<li>Verify that home page is visible succsessfully</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3MR-23]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-23">Verify the Hand Tools on Categories module</a>
+            <span class="subText">
+               Created: 30/Jul/24                   &nbsp;Updated: 30/Jul/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10442">Marcel_Rus_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-19723-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-2">
+                     ST3MR-2                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verify that the user can find the Hand Tools on Categories module.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3MR-22]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-22">Verify the Categories module on Homepage</a>
+            <span class="subText">
+               Created: 30/Jul/24                   &nbsp;Updated: 30/Jul/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10442">Marcel_Rus_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-19722-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-2">
+                     ST3MR-2                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verify that the Categories module is working on Homepage</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3MR-21]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-21">Verify the Other Tools on Categories module</a>
+            <span class="subText">
+               Created: 30/Jul/24                   &nbsp;Updated: 30/Jul/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10442">Marcel_Rus_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-19721-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-5">
+                     ST3MR-5                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verify that the user can find the Other Tools on Categories module.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3MR-20]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-20">Verify the Categories module on Homepage</a>
+            <span class="subText">
+               Created: 30/Jul/24                   &nbsp;Updated: 30/Jul/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10442">Marcel_Rus_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-19720-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-5">
+                     ST3MR-5                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verify that the Categories module is working on Homepage</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3MR-19]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-19">Verify the Power Tools on Categories module</a>
+            <span class="subText">
+               Created: 30/Jul/24                   &nbsp;Updated: 30/Jul/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10442">Marcel_Rus_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-19719-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-3">
+                     ST3MR-3                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verify that the user can find the Power Tools on Categories module.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [ST3MR-18]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-18">Verify the Categories module on Homepage</a>
+            <span class="subText">
+               Created: 30/Jul/24                   &nbsp;Updated: 30/Jul/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">In Progress</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10442">Marcel_Rus_ST3</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Low
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-19718-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-3">
+                     ST3MR-3                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
+            </td>
+        </tr>
+    
+
+
+
+</table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Verify that the Categories module is working on Homepage.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
                         [ST3MR-16]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-16">Verify that the user can add products to favourites</a>
             <span class="subText">
-               Created: 08/Jul/24                   &nbsp;Updated: 09/Jul/24
+               Created: 08/Jul/24                   &nbsp;Updated: 30/Jul/24
 
                                             </span>
             </h3>
@@ -230,7 +1646,22 @@ hr.fullcontent
                                 <b>Blocks</b><br/>
                             </td>
                         </tr>
-                                                                <tr>
+                                    <tr>
+            <td>
+                blocks
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-15">
+                     ST3MR-15                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the Add...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                        <tr>
             <td>
                 is blocked by
             </td>
@@ -245,7 +1676,47 @@ hr.fullcontent
                 In Progress
             </td>
         </tr>
-                                        </table>
+                                                <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-17">
+                     ST3MR-17                 </a>
+            </td>
+            <td>
+                The Add to Favourites command doesn&#39;t...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-2">
+                     ST3MR-2                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                                    </table>
             </td>
         </tr>
     
@@ -292,16 +1763,15 @@ hr.fullcontent
                 <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
                         [ST3MR-13]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-13">Verify that the user can add products to cart</a>
             <span class="subText">
-               Created: 08/Jul/24                   &nbsp;Updated: 09/Jul/24
+               Created: 08/Jul/24                   &nbsp;Updated: 29/Jul/24
 
-                                                    &nbsp;Resolved: 08/Jul/24
-                            </span>
+                                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Done</td>
+        <td width="80%">In Progress</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -381,7 +1851,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-                            Done
+            				Unresolved
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -446,6 +1916,21 @@ hr.fullcontent
                 tests
             </td>
             <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-2">
+                     ST3MR-2                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+            <tr>
+            <td>
+                tests
+            </td>
+            <td>
                 <a href="https://itfclasses.atlassian.net/browse/ST3MR-14">
                      ST3MR-14                 </a>
             </td>
@@ -500,18 +1985,17 @@ hr.fullcontent
                             <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
                 <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
                 <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
-                        [ST3MR-9]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-9">Verify that the Hand Tools products filters is visible</a>
+                        [ST3MR-9]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-9">Verify that the Power Tools products filters is visible</a>
             <span class="subText">
-               Created: 08/Jul/24                   &nbsp;Updated: 09/Jul/24
+               Created: 08/Jul/24                   &nbsp;Updated: 30/Jul/24
 
-                                                    &nbsp;Resolved: 08/Jul/24
-                            </span>
+                                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Done</td>
+        <td width="80%">In Progress</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -591,7 +2075,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-                            Done
+            				Unresolved
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -666,7 +2150,22 @@ hr.fullcontent
                 In Progress
             </td>
         </tr>
-                                                                    </table>
+                                        <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-3">
+                     ST3MR-3                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                        </table>
             </td>
         </tr>
     
@@ -689,7 +2188,7 @@ hr.fullcontent
     <table cellpadding="0" cellspacing="0" border="0" width="100%">
     <tr>
         <td id="descriptionArea">
-            <p>Verify that the Hand Tools products filters is visible</p>
+            <p>Verify that the Power Tools products filters is visible</p>
 
 <p>Prerequisites: Follow these steps before executing this test case</p>
 
@@ -711,9 +2210,9 @@ hr.fullcontent
                             <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/ST3MR-1">As a shop user i want to have the Categories feature to be able to select and buy products</a></b>
                 <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/ST3MR-1">ST3MR-1</a>)</span>
                 <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
-                        [ST3MR-8]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-8">Verify that the Hand Tools products sort is visible</a>
+                        [ST3MR-8]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-8">Verify that the Other Tools products sort is visible</a>
             <span class="subText">
-               Created: 08/Jul/24                   &nbsp;Updated: 09/Jul/24
+               Created: 08/Jul/24                   &nbsp;Updated: 30/Jul/24
 
                                             </span>
             </h3>
@@ -878,10 +2377,45 @@ hr.fullcontent
         </tr>
                                                 <tr>
                             <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-10">
+                     ST3MR-10                 </a>
+            </td>
+            <td>
+                The Sort products dropdown box don&#39;t ...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+                                                <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
                                 <b>Tests</b><br/>
                             </td>
                         </tr>
                                     <tr>
+            <td>
+                tests
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-5">
+                     ST3MR-5                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+            <tr>
             <td>
                 tests
             </td>
@@ -919,7 +2453,7 @@ hr.fullcontent
     <table cellpadding="0" cellspacing="0" border="0" width="100%">
     <tr>
         <td id="descriptionArea">
-            <p>Verify that the Hand Tools products sort is visible</p>
+            <p>Verify that the Other Tools products sort is visible</p>
 
 <p>Prerequisites: Follow these steps before executing this test case</p>
 
@@ -943,16 +2477,15 @@ hr.fullcontent
                 <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
                         [ST3MR-7]&nbsp;<a href="https://itfclasses.atlassian.net/browse/ST3MR-7">Verify all products from Hand Tools category and products detail page</a>
             <span class="subText">
-               Created: 07/Jul/24                   &nbsp;Updated: 09/Jul/24
+               Created: 07/Jul/24                   &nbsp;Updated: 29/Jul/24
 
-                                                    &nbsp;Resolved: 08/Jul/24
-                            </span>
+                                            </span>
             </h3>
         </td>
     </tr>
     <tr>
         <td width="20%"><b>Status:</b></td>
-        <td width="80%">Done</td>
+        <td width="80%">In Progress</td>
     </tr>
     <tr>
         <td width="20%"><b>Project:</b></td>
@@ -1032,7 +2565,7 @@ hr.fullcontent
 			<b>Resolution:</b>
 		</td>
 		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
-                            Done
+            				Unresolved
                     </td>
                     <td bgcolor="#f0f0f0" width="20%">
                 <b>Votes:</b>
@@ -1097,6 +2630,21 @@ hr.fullcontent
                 tests
             </td>
             <td>
+                <a href="https://itfclasses.atlassian.net/browse/ST3MR-2">
+                     ST3MR-2                 </a>
+            </td>
+            <td>
+                As a shop user i want to have the opt...
+            </td>
+            <td>
+                In Progress
+            </td>
+        </tr>
+            <tr>
+            <td>
+                tests
+            </td>
+            <td>
                 <a href="https://itfclasses.atlassian.net/browse/ST3MR-6">
                      ST3MR-6                 </a>
             </td>
@@ -1137,7 +2685,7 @@ Prerequisites</p>
     </tr>
     </table>
 
-<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Wed Jul 10 21:44:14 UTC 2024 by IT Factory using Jira 1001.0.0-SNAPSHOT#100258-rev:a729caf1fa71f169398743bacf8c3740fb5547ff.
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Generated at Tue Jul 30 22:58:28 UTC 2024 by IT Factory using Jira 1001.0.0-SNAPSHOT#100259-rev:78562294c6e16d2f2d86c951b29fd97fdb0b51c8.
 
 </body>
 </html>
