@@ -153,9 +153,9 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 ### 1.7 Test Completion
 
-- The traceability matrix was generated and can be found [here](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/blob/main/Jira_TraceabilityMatrix.xlsx) 
+- The traceability matrix was generated and can be found [here](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/blob/main/Jira_TraceabilityMatrix.xlsx)
 
-![image](https://github.com/user-attachments/assets/7a431995-1908-4893-80da-66df87bc1c8e)
+![Matricea trasabilitate](https://github.com/user-attachments/assets/2361f93d-3b8b-48cd-94c1-e0d3de02ea98)
 
 - Test execution chart was generated and can be found below:
 
