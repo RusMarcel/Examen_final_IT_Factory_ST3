@@ -19,7 +19,7 @@ You can find a example of one of the stories that were created in the picture be
 
 Here you can find the release that was created for this project:
 
-![image](https://github.com/RusMarcel/Examen_final_IT_Factory_ST3/assets/174935383/77c17248-485f-4fa2-8d77-fed96a11452c)
+![image](https://github.com/user-attachments/assets/14515794-4cef-445b-8c49-92baabe6a924)
 
 ## 2. Testing process
 
