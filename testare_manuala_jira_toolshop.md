@@ -117,7 +117,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 The testing process will be executed based on the application requirements.
 
-You can find below an example of five test conditions that were created in the scope of this project:
+You can find below an example of twelve test conditions that were created in the scope of this project:
 
 ![image](https://github.com/user-attachments/assets/5faac3c8-6d19-4e32-8d4f-67424459afc2)
 
@@ -161,7 +161,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 ![image](https://github.com/user-attachments/assets/0caedaf7-9de9-4589-8763-e8f7db016047)
 
-- The final report shows that a number of two tests have failed of a total of five tests:
+- The final report shows that a number of two tests have failed of a total of twelve tests:
 
 ![image](https://github.com/user-attachments/assets/b8c11e53-9583-40dd-b611-730e2edf6dad)
 
