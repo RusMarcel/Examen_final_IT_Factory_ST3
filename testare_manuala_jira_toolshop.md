@@ -163,7 +163,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 - The final report shows that a number of two tests have failed of a total of twelve tests:
 
-![image](https://github.com/user-attachments/assets/b8c11e53-9583-40dd-b611-730e2edf6dad)
+![image](https://github.com/user-attachments/assets/faef2f1c-3250-4212-87e9-859c37643b7c)
 
 - A number of two total bugs were found, from which the priority is: One is Highest and one is Low.
 
