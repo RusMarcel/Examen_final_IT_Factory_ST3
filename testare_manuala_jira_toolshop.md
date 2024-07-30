@@ -31,7 +31,7 @@ The Test Plan is designed to describe all details of testing for the Categories 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the projects risks associated with the plan. 
 
-The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
+The test plan that was created for this project can be found here
 
 #### 1.1.1. Roles asigned to the project and persons allocated
 <table>
